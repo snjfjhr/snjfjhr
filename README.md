@@ -5,8 +5,6 @@
 
 language/tool I use
 
-<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
-<img src="https://img.shields.io/badge/-Fortran-734F96.svg?logo=fortran&style=flat">
-<img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=flat">
+<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">   <img src="https://img.shields.io/badge/-Fortran-734F96.svg?logo=fortran&style=flat">
+<img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=flat">   <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=flat">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat">
-<img src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=flat">
